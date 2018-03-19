@@ -8,11 +8,12 @@ NPS CRC Check is a program that gets or checks a files CRC.
 
 ## Usage
 Fairly straight-forward usage:
+```
 	1. Run the gui and browse for your file.
-	1. Once your file is selected you can then:
-		1. Get the files CRC
-		1. Check the files CRC against a pre-existing provided CRC. 
-		
+	2. Once your file is selected you can then:
+		a. Get the files CRC
+		b. Check the files CRC against a pre-existing provided CRC. 
+```
 ## Motivation
 I needed a tool to check a files CRC when writing programs.
 
