@@ -21,6 +21,9 @@ I needed a tool to check a files CRC when writing programs.
 ## Installation
 Portable program (Plans for installer and portable option).
 
+## Icon
+![Program Icon](/images/crc_icon.png)
+
 
 ## Test
 I have tested on Windows 10 64 Bit
