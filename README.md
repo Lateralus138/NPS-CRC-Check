@@ -1,5 +1,5 @@
 # NPS CRC Check
-TTS WavGen is a program that gets or checks a files CRC.
+NPS CRC Check is a program that gets or checks a files CRC.
 
 ## Current Release
 [NPS CRC Check](https://github.com/Lateralus138/NPS-CRC-Check/releases/download/1.3.18.18/NPS-CRC-CHECK.exe)
