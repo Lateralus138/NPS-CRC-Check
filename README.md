@@ -2,9 +2,17 @@
 NPS CRC Check is a program that gets or checks a files CRC.
 
 ## Current Release
-[NPS CRC Check](https://github.com/Lateralus138/NPS-CRC-Check/releases/download/1.3.18.18/NPS-CRC-CHECK.exe)<br />
+[NPS CRC Check](https://github.com/Lateralus138/NPS-CRC-Check/releases/download/1.3.18.18/NPS-CRC-CHECK.exe) - This files CRC: 7E0F4DC0<br />
 [GitHub Project](https://github.com/Lateralus138/NPS-CRC-Check)
 
+
+## Usage
+Fairly straight-forward usage:
+	1. Run the gui and browse for your file.
+	1. Once your file is selected you can then:
+		1. Get the files CRC
+		1. Check the files CRC against a pre-existing provided CRC. 
+		
 ## Motivation
 I needed a tool to check a files CRC when writing programs.
 
